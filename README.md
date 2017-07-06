@@ -1,2 +1,2 @@
-# pam
-A slack bot named after the best office administrator in The Office
+# iris
+A fun little slack bot using wit.ai to talk to users
